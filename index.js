@@ -1,3 +1,7 @@
+/**
+ * Script from @see{@link https://github.com/vercel/next.js/blob/canary/scripts/trace-to-tree.mjs}
+ */
+
 const fs = require("fs");
 const eventStream = require("event-stream");
 const { bold, blue, cyan, green, magenta, red, yellow } = require("picocolors");
