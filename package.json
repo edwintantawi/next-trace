@@ -1,0 +1,12 @@
+{
+  "name": "next-trace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "picocolors": "^1.1.1"
+  }
+}
